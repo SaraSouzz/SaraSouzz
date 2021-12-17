@@ -25,7 +25,7 @@
  ## Sobre mim 🇧🇷
  
  <div style="float-left">
-    <img align="right" height="320" src="">
+    <img align="right" height="320" src="https://static.wikia.nocookie.net/mugen/images/4/46/New_Courage.png/revision/latest?cb=20210823101145">
  
 </div>
 Oi eu sou a sara estou estudando e me dedicando para me tornar uma<br>
