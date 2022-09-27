@@ -1,5 +1,5 @@
 
-## Oi eu sou o Vitor
+## Oi eu sou a Sara
 
 
 <div style="display: inline_block"><br>
@@ -10,7 +10,6 @@
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" /> 
  <br> <br>
 
 
@@ -28,7 +27,7 @@
     <img align="right" height="320" src="https://static.wikia.nocookie.net/mugen/images/4/46/New_Courage.png/revision/latest?cb=20210823101145">
  
 </div>
-Oi eu sou a sara estou estudando e me dedicando para me tornar uma<br>
+Oi eu sou a Sara estou estudando e me dedicando para me tornar uma<br>
 desenvolvedora frontend, tenho formação na área de design gráfico, possuo <br>
 experiência como Ux/Ui e estou buscando melhorar cada dia mais! <br>
 Sou apaixonada por arte e criação desde muito nova, a programação é recente <br>
